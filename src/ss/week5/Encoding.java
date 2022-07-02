@@ -1,5 +1,8 @@
 package ss.week5;
 
+import java.util.Base64;
+
+/*
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.codec.binary.Hex;
@@ -7,7 +10,7 @@ import org.apache.commons.codec.binary.Hex;
 /**
  * A simple class that experiments with the Hex encoding
  * of the Apache Commons Codec library.
- */
+
 public class Encoding {
     public static void main(String[] args) throws DecoderException {
         String input = "Hello World";
@@ -35,3 +38,4 @@ public class Encoding {
     }
 
 }
+*/
